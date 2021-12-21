@@ -9,7 +9,7 @@ Here are the technologies used in this project.
 * Java 11
 * Spring Boot
 * PostgreSQL
-* React
+* ReactJS + TypeScript
 
 ## Services Used
 
